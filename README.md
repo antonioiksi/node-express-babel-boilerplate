@@ -1,5 +1,7 @@
 # node-express-babel-boilerplate
 
+FIRST OF ALL CHECK FILE .babelrc in project root
+
 Boilerplate of node.js express app with babel and es6 source code.
 
 ## 1.Clone project
